@@ -1,1 +1,1 @@
-# Ai-Automation
+# AI-Automation
